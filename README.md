@@ -2,6 +2,8 @@ Frontend Web Developer focused on building seamless and performant digital exper
 
 Software developer at **[Lemonhive](https://lemonhive.com)**.
 
+[Linkedin](https://www.linkedin.com/in/hasibul-hossain/)
+
 Recent [contributions](https://github.com/hasib-lemonhive)
  
 ##### Get in touch [hasibul@lemonhive.com](mailto:hasibul@lemonhive.com)
